@@ -1,0 +1,36 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-menu {
+  @apply ml-30px text-base hover:text-lime-950 px-4;
+} */
+
+/* .button {
+  pd-10px
+} */
+
+/* .navimg {
+  width: 15px;
+  height: 15px;
+} */
+
+@media (min-width: 640px) {
+  body {
+    color: black;
+  }
+
+}
+
+@media (min-width: 768px) {
+  .nav {
+    color: darkcyan;
+  }
+}
+
+
+@media (min-width: 768px) {
+  body {
+    color: rgb(0, 42, 7);
+  }
+}
